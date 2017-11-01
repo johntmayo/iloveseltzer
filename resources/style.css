@@ -11,7 +11,7 @@ h1 {
   text-align: center;
   background-image: url("./images/watersurface.jpeg");
   height: 300px;
-  width: 1280px;
+  width: 100%;
   margin-top: 75px;
   padding-top: 50px;
   vertical-align: text-bottom;;
