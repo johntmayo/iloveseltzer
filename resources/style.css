@@ -10,6 +10,7 @@ h1 {
   color: springgreen;
   text-align: center;
   background-image: url("./images/watersurface.jpeg");
+  background-size: 100%;
   height: 300px;
   width: 100%;
   margin-top: 75px;
